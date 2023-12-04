@@ -113,7 +113,7 @@ let resumeButton = document.getElementById('resume-button')
 
 let opt = {
     margin: [0, -2.5],
-    filename: 'Dhayalan R.pdf',
+    filename: 'Ananth .pdf',
     image: { type: 'text', quality: 1 },
     html2canvas: { scale: 3 },
     jsPDF: { format: 'a4', orientation: 'portrait' }
